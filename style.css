@@ -1,0 +1,19 @@
+body {
+   background-color: grey;
+ }
+
+ h1  {
+   front-weight: bold;
+ }
+
+ h3  {
+  color: purple;
+ }
+
+ li {
+   color-red;
+ }
+
+ img {
+   width: 150px;
+ }
